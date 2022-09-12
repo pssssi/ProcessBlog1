@@ -1,14 +1,36 @@
 *{
-    background-color: antiquewhite;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
 }
 
-h1{
-    color: cornflowerblue;
-   text-align: center;
-
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    background-color: #F4F2E4;
 }
 
-h3{
-    color:dimgrey;
+.header{
+    padding: 30px;
+    font-size: 2rem;
     text-align: center;
 }
+
+
+.blogcolumn {   
+    float: left;
+    width: 100%;
+  }
+  
+  .blogimg {
+    width: 80%;
+  
+  }
+
+  .card {
+     background-color: white;
+     padding: 20px;
+     margin-top: 20px;
+  }
+  
+
